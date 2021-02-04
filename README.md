@@ -1,8 +1,9 @@
-# Stranger - The RPG Game
+# Stranger - The RPG Game 
 Stranger is an RPG (Role-Playing Game) that takes place on a paradise island where the goal is to survive. Being able to kill, create and obtain all kinds of items in game.
 
 At the moment i'm creating the mechanics to get life to the game. After that we will open to the Public in Early Access.
 
+Follow on Discord https://discord.gg/xFwYswH
 
 ### STG | Mechanics
 
